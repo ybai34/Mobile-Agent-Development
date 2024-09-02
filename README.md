@@ -49,3 +49,7 @@ https://open.feishu.cn/app?lang=zh-CN
 ![alt text](./assert/demo1.png)
 
 ![alt text](./assert/demo2.png)
+
+## 懒得配API可以加入飞书组织一起共用这个API
+
+我和“Mobile-Agent竞赛小组”的小伙伴都在飞书等你，用这个专属链接加入我们吧！https://kcn7dc822hda.feishu.cn/invite/member/A6cKVkhNl5z5KZYg
